@@ -4,7 +4,7 @@
 
 I build real tools for real classrooms. 15+ open-source plugins, simulators, and apps — all designed, coded, and tested by me. No third-party plugins on [my website](https://www.davidebertolino.it): every single one is built from scratch.
 
-I teach Automation Systems & Maintenance at [IIS Cigna-Baruffi-Garelli](https://www.cignabaruffigarelli.edu.it/) in Mondovì, Italy, where I also manage the entire IT infrastructure and Google Workspace for 1,100+ students.
+I teach Automation Systems & Maintenance at [IIS Cigna-Baruffi-Garelli](https://www.cignabaruffigarelli.edu.it/) in Mondovì, Italy, where I also manage the institutional web site and Google Workspace for about 1,100 students.
 
 ---
 
